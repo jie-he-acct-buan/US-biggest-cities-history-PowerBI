@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  4 01:09:24 2019
-
-@author: Jie
-"""
-
 import csv
 import operator
 import copy
